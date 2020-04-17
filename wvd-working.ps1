@@ -1,7 +1,7 @@
 ﻿ #D:
  #CD D:\wvd\2ndPreview\RDPowershell
  #Import-module .\Microsoft.RDInfra.RDPowershell.dll -Verbose
- 
+ #azim added a comment
 Install-Module -Name Microsoft.RDInfra.RDPowerShell -verbose -force
 Import-Module -Name Microsoft.RDInfra.RDPowerShell -verbose
 
